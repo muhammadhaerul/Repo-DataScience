@@ -1,4 +1,4 @@
 # Data-Visualization
 
-*Tools:*
+**Tools:**
 1. Tableau
