@@ -1,9 +1,7 @@
 # Data-Visualization
 
-**Tools:**
-
 **1. Tableau**
-  - visualization Techniques:
+  - Visualization Techniques:
     - Filtering
     - Sorting
     - Filtering and Sorting
