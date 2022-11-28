@@ -26,5 +26,6 @@
     
   - Visualization Dashboards:
     - USA Cybertrend Superstore: https://public.tableau.com/app/profile/muhammad.haerul/viz/USACybertrendSuperstoreDashboard/MyDashboard
+    - Anime Recomendation: https://public.tableau.com/app/profile/muhammad.haerul/viz/AnimeRecomendationDashboard/AnimeRecomendation
     
 **2. Python**
