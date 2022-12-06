@@ -2,6 +2,6 @@
 
 **1. Tableau**
   - Project:
-    - Anime Recomendations
+    - Anime Recomendation
 
 **2. Python**
