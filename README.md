@@ -1,4 +1,4 @@
-# Data-Science
+# Data-Science Repository
 
 This repository contains various resources and tutorials on data science and its related topics.
 
