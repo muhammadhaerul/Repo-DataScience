@@ -12,4 +12,4 @@ This section covers techniques for effectively communicating data insights throu
 
 ## Pandas-Tutorial
 
-This section covers the basics of using the Pandas librariy for data manipulation and analysis in Python.
+This section covers the basics of using the Pandas library for data manipulation and analysis in Python.
