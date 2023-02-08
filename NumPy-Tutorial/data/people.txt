@@ -1,0 +1,11 @@
+Name, Age, Gender, Grade, Address
+John, 25, Male, A, 123 Main St
+Emily, 22, Female, B, 456 Park Ave
+Michael, 30, Male, C, 789 Elm St
+Jessica, 27, Female, A, 321 Oak St
+David, 35, Male, B, 159 Pine St
+Samantha, 28, Female, C, 357 Cedar St
+James, 40, Male, A, 135 Birch St
+Megan, 32, Female, B, 246 Maple St
+Jacob, 45, Male, C, 369 Willow St
+Amanda, 38, Female, A, 159 Oak St
